@@ -43,7 +43,7 @@ documents/*.pdf
 |---|---|
 | PDF text extraction | pdfplumber |
 | OCR fallback (scanned PDFs) | PyMuPDF + Tesseract |
-| LLM extraction + classification | Google Gemini 2.5 Flash |
+| LLM extraction + classification | Google Gemini 3.6 Flash |
 | Master-data fuzzy matching | thefuzz (Levenshtein) |
 | ERP validation oracle | erp.py (unchanged from kit) |
 | Runtime | Python 3.11 / Docker |
