@@ -18,7 +18,7 @@ documents/*.pdf
          │ raw text
          ▼
 ┌─────────────────────┐
-│ gemini_extractor.py │  Gemini 2.5 Flash — classify + extract → autodraft JSON
+│ gemini_extractor.py │  Gemini 3.6 Flash — classify + extract → autodraft JSON
 └────────┬────────────┘
          │ raw extracted fields
          ▼
